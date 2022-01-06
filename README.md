@@ -12,9 +12,22 @@
 ### Languages and Tools:
 
 
+<img align="left" alt="C#" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/Csharp_Logo.png" width="auto">
+<img align="left" alt="CSS" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/css.png" width="auto">
+<img align="left" alt="GIT" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/git.png" width="auto">
+<img align="left" alt="GITHUB" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/github.png" width="auto">
+<img align="left" alt="HTML" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/html.png" width="auto">
+<img align="left" alt="JAVA" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade30636221c2.932728411524510819402.jpg" width="auto">
+<img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/visual-studio-code.png" width="auto">
+<br>
 
-Lınkedın : linkedin.com/in/volkanunlu2203/
-Medium:medium.com/@volkanunlu2203
+## How to you reach me?
+* [LinkedIn](https://www.linkedin.com/in/volkanunluu/)
+* [HackerRank](https://www.hackerrank.com/volkanunlu2203)
+* [Twitter](https://www.twitter.com/Arafmamuri/)
+* [Email](mailto:volkanunlu2203@gmail.com)
+
+
 
 ## Extras
 
