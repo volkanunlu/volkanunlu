@@ -12,7 +12,6 @@
 #### It's been quite an exciting time and
 #### I've really enjoyed everything this new process has introduced me to.
 #### I spend my days with tutorials and applications about Java,C#,Css,Jquery and HTML5.
-#### I will work to be fullstack developer everyday.
 #### Thank you!
 
 ### Languages and Tools:
