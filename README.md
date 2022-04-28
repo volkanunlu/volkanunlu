@@ -23,6 +23,9 @@
 <img align="left" alt="CSS" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/css.png" width="auto">
 <img align="left" alt="GIT" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/git.png" width="auto">
 <img align="left" alt="HTML" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/html.png" width="auto">
+<img align="left" alt="GITHUB" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/Angular-logo.png" width="auto">
+<img align="left" alt="GITHUB" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/Javascript_Logo.png" width="auto">
+<img align="left" alt="GITHUB" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/Typescript_logo_2020.svg.png" width="auto">
 <img align="left" alt="GITHUB" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/github.png" width="auto">
 <br>
 
