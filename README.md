@@ -11,7 +11,7 @@
 #### During my studentship, I also gained working experience in many jobs and clubs.
 #### It's been quite an exciting time and
 #### I've really enjoyed everything this new process has introduced me to.
-#### I spend my days with tutorials and applications about Java,C#,Css,Jquery and HTML5.
+#### I spend my days with tutorials and applications about Java,C#,JavaScript,TypeScript,Angular,Css,Jquery and HTML5.
 #### Thank you!
 
 ### Languages and Tools:
