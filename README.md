@@ -17,7 +17,6 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="C#" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/Csharp_Logo.png" width="auto">
 <img align="left" alt="JAVA" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/kisspng-java-runtime-environment-computer-icons-java-platf-java-5ade30636221c2.932728411524510819402.jpg" width="auto">
 <img align="left" alt="Visual Studio Code" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/visual-studio-code.png" width="auto">
 <img align="left" alt="CSS" width="35px" src="https://github.com/volkanunlu/volkanunlu/blob/main/css.png" width="auto">
