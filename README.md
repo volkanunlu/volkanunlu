@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Volkan</h1>
-<h3 align="center">I gratuated from Fırat University Software Engineering Department in 2021. During my studentship, I also gained working experience in many jobs and clubs.It's been quite an exciting time and I've really enjoyed everything this new process has introduced me to.I spend my days with tutorials and applications about Kotlin,Java,TypeScript,Angular,and HTML5.</h3>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi Everyone 👋, I'm Volkan</h1>
+<h4 align="left">I gratuated from Fırat University Software Engineering Department in 2021. <br>
+  During my studentship, I also gained working experience in many jobs and clubs. <br>
+  It's been quite an exciting time and I've really enjoyed everything this new process has introduced me to.<br>
+  I spend my days with tutorials and applications about Kotlin,Java,TypeScript,Angular,and HTML5.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volkanunlu&label=Profile%20views&color=0e75b6&style=flat" alt="volkanunlu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=volkanunlu" alt="volkanunlu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arafmamuri" target="blank"><img src="https://img.shields.io/twitter/follow/arafmamuri?logo=twitter&style=for-the-badge" alt="arafmamuri" /></a> </p>
 
 - 🔭 I’m currently working on **Kotlin Clone Projects**
 
@@ -17,6 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/arafmamuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafmamuri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/volkanunluu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="volkanunluu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17439556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17439556" height="30" width="40" /></a>
 </p>
@@ -26,7 +34,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/volkanunlui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="volkanunlui" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volkanunlu&show_icons=true&locale=en&layout=compact" alt="volkanunlu" /></p>
-
+<br>
+<br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volkanunlu&show_icons=true&locale=en" alt="volkanunlu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volkanunlu&" alt="volkanunlu" /></p>
