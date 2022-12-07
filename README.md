@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volkanunlu&label=Profile%20views&color=0e75b6&style=flat" alt="volkanunlu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arafmamuri" target="blank"><img src="https://img.shields.io/twitter/follow/arafmamuri?logo=twitter&style=for-the-badge" alt="arafmamuri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Volkanunludev" target="blank"><img src="https://img.shields.io/twitter/follow/arafmamuri?logo=twitter&style=for-the-badge" alt="Volkan Ünlü" /></a> </p>
 
 - 🔭 I’m currently working on **Kotlin Clone Projects**
 
